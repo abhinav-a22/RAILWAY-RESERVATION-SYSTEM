@@ -1,0 +1,21 @@
+# Compiled Binaries & Object Files
+*.o
+*.obj
+*.exe
+*.out
+a.out
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs & Temporary Files
+*.log
+*.tmp
